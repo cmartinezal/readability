@@ -1,5 +1,5 @@
 # Readability
-Program in C that calculates the grade level needed to comprehend some text.
+Program that calculates the grade level needed to comprehend some text.
 
 ## Problem to Solve
 
@@ -47,7 +47,7 @@ Let's start to use this project.
 
 ## Prerequisites
 
-A compiler for C must be installed
+A compiler for C must be installed. Python 3 must be installed.
 
 ## Installation
 
@@ -56,4 +56,10 @@ To execute the project open the terminal and go to the project folder. Then comp
 ```sh
 make readability
 ./readability
+```
+
+To execute with Python use this command:
+
+```sh
+python3 readability.py
 ```
